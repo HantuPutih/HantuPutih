@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 
 Front-End Web Developer  
-Serdang, Malaysia · +60 111-675-4069  
-Jakarta, Indonesia  · +62 859-4689-0069 
+Serdang, Malaysia · Jakarta, Indonesia
 📧 **faridjuliano.fj@gmail.com** · 🔗 [LinkedIn](https://linkedin.com/in/farid-juliano/) · 🔗 [GitHub](https://github.com/your-username)
 
 ---
