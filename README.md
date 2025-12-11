@@ -1,5 +1,4 @@
 ## Hi there 👋
-## I am Farid Juliano
 
 <!--
 **HantuPutih/HantuPutih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Farid Juliano
+#  I am Farid Juliano
 
 Front-End Web Developer  
 Serdang, Malaysia · Jakarta, Indonesia 
