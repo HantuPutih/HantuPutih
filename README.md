@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 Front-End Web Developer  
 Serdang, Malaysia · +60 111-675-4069  
-📧 **faridjuliano.fj<at>gmail.com** · 🔗 [LinkedIn](https://linkedin.com/in/farid-juliano/) · 🔗 [GitHub](https://github.com/your-username)
+Jakarta, Indonesia  · +62 859-4689-0069 
+📧 **faridjuliano.fj@gmail.com** · 🔗 [LinkedIn](https://linkedin.com/in/farid-juliano/) · 🔗 [GitHub](https://github.com/your-username)
 
 ---
 
